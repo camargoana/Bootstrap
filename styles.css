@@ -1,0 +1,42 @@
+.nav-link{
+    color: #493E42 !important;
+}
+
+.navbar-brand{
+  font-size: 24px;
+  color: #493E42 !important;
+}
+
+.tab-custom .nav-item a.active,
+.tab-custom .nav-item a:hover.active {
+  background-color: #493E42;
+  color: #FFFFFF !important;
+}
+
+.container-pills{
+  margin-top: 75px;
+}
+
+.feed-date{
+  font-weight: bold;
+  color: #7e7676;
+}
+
+.feed-comment{
+  color: #7e7676; 
+  font-size: 18px;
+}
+
+.modal-buttons button{
+  font-size: 20px;
+}
+
+.card-title{
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+
+.card-header{
+  background-color: #FFFFFF;
+}
+
